@@ -13,21 +13,21 @@ sweetAlertScript.onload = () => {
     function showLoveMessages() {
         Swal.fire({
             title: '❤️',
-            text: 'Ro, no olvides que sos una persona especial.',
+            text: 'Para las primeras flores de mi jardin.',
             
             showConfirmButton: true,
             confirmButtonText: 'Siguiente'
         }).then(() => {
             Swal.fire({
                 title: '❤️',
-                text: 'Gracias por cada momento divertido.',
+                text: 'Feliz Primavera.',
     
                 showConfirmButton: true,
                 confirmButtonText: 'Siguiente'
             }).then(() => {
                 Swal.fire({
                     title: '❤️',
-                    text: 'Te queremos con todo nuestro corazón ❤️ No dejes que nadie te apague tu sonrisa.',
+                    text: 'Las amo con todo mi ❤️ Ambar, Sofia y Catalina.',
                     
                     showConfirmButton: true,
                     confirmButtonText: 'Empezar'
