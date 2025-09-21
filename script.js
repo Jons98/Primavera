@@ -13,22 +13,22 @@ sweetAlertScript.onload = () => {
     function showLoveMessages() {
         Swal.fire({
             title: '❤️',
-            text: 'Eres la persona más especial para mí.',
-            icon: 'info',
+            text: 'Ro, no ovides que sos una persona especial.',
+            icon: 'flowers.png',
             showConfirmButton: true,
             confirmButtonText: 'Siguiente'
         }).then(() => {
             Swal.fire({
                 title: '❤️',
-                text: 'Gracias por cada momento compartido.',
-                icon: 'info',
+                text: 'Gracias por cada momento divertido.',
+                icon: 'flowers.png',
                 showConfirmButton: true,
                 confirmButtonText: 'Siguiente'
             }).then(() => {
                 Swal.fire({
                     title: '❤️',
-                    text: 'Te amo con todo mi corazón ❤️.',
-                    icon: 'info',
+                    text: 'Te queremos con todo nuestro corazón ❤️ No dejes que nadie te apague tu sonrisa.',
+                    icon: 'flowers.png',
                     showConfirmButton: true,
                     confirmButtonText: 'Empezar'
                 }).then(() => {
