@@ -27,7 +27,7 @@ sweetAlertScript.onload = () => {
             }).then(() => {
                 Swal.fire({
                     title: '❤️',
-                    text: 'Las amamos con todo nuestro ❤️ Luu y Toto<br>Ambar, Sofia y Catalina.',
+                    text: 'Las amamos con todo nuestro ❤️ Luu y Toto ❤️Ambar, Sofia y Catalina❤️',
                     
                     showConfirmButton: true,
                     confirmButtonText: 'Empezar'
