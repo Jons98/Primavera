@@ -19,15 +19,15 @@ sweetAlertScript.onload = () => {
             confirmButtonText: 'Siguiente'
         }).then(() => {
             Swal.fire({
-                title: '❤️',
-                text: 'Feliz Primavera.',
+                title: '❤️Feliz Primavera❤️',
+                text: 'Las amamos con todo nuestro ❤️   De: Luu y Toto ',
     
                 showConfirmButton: true,
                 confirmButtonText: 'Siguiente'
             }).then(() => {
                 Swal.fire({
-                    title: '❤️',
-                    text: 'Las amamos con todo nuestro ❤️ Luu y Toto ❤️Ambar, Sofia y Catalina❤️',
+                    title: 'para nuestras bellas flores:',
+                    text: '❤️Ambar ❤️ Sofia ❤️ Catalina ❤️',
                     
                     showConfirmButton: true,
                     confirmButtonText: 'Empezar'
